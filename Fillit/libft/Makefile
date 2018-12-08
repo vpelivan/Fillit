@@ -24,7 +24,7 @@ SOURCE = ft_atoi.c ft_bzero.c ft_isalnum.c ft_isalpha.c ft_isascii.c\
 		ft_strrchr.c ft_strsplit.c ft_strstr.c ft_strsub.c ft_strtrim.c\
 		ft_tolower.c ft_toupper.c ft_count_words.c ft_sqrt.c ft_swap.c\
 		ft_strsort.c ft_print_tab.c ft_lstnew.c ft_lstdelone.c ft_lstdel.c\
-		ft_lstadd.c ft_lstiter.c ft_lstmap.c
+		ft_lstadd.c ft_lstiter.c ft_lstmap.c get_next_line.c
 
 LIB = ft_atoi.o ft_bzero.o ft_isalnum.o ft_isalpha.o ft_isascii.o\
 		ft_isdigit.o ft_isprint.o ft_itoa.o ft_memalloc.o ft_memccpy.o\
@@ -38,7 +38,7 @@ LIB = ft_atoi.o ft_bzero.o ft_isalnum.o ft_isalpha.o ft_isascii.o\
 		ft_strrchr.o ft_strsplit.o ft_strstr.o ft_strsub.o ft_strtrim.o\
 		ft_tolower.o ft_toupper.o ft_count_words.o ft_sqrt.o ft_swap.o\
 		ft_strsort.o ft_print_tab.o ft_lstnew.o ft_lstdelone.o ft_lstdel.o\
-		ft_lstadd.o ft_lstiter.o ft_lstmap.o
+		ft_lstadd.o ft_lstiter.o ft_lstmap.o get_next_line.o
 
 HEADER = libft.h
 

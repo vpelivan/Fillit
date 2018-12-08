@@ -6,7 +6,7 @@
 
 #IncludeRegexTransform: 
 
-/Users/vpelivan/CLionProjects/Fillit/Fillit.h
+/Users/vpelivan/CLionProjects/Fillit/fillit.h
 libft/libft.h
 /Users/vpelivan/CLionProjects/Fillit/libft/libft.h
 unistd.h
@@ -17,6 +17,8 @@ stdlib.h
 -
 stdio.h
 -
+string.h
+-
 
 /Users/vpelivan/CLionProjects/Fillit/libft/libft.h
 stdlib.h
@@ -25,8 +27,10 @@ string.h
 -
 unistd.h
 -
+fcntl.h
+-
 
 /Users/vpelivan/CLionProjects/Fillit/main.c
-Fillit.h
-/Users/vpelivan/CLionProjects/Fillit/Fillit.h
+fillit.h
+/Users/vpelivan/CLionProjects/Fillit/fillit.h
 
